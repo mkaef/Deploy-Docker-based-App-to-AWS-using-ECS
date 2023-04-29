@@ -77,3 +77,4 @@ Let test the URL.
     3. Select TCP and enter local host port number for port range, and use 0.0.0.0/0 for source info.
     4. Copy the public DNS URL of the selected instance, paste it into the tab of a browser on your local host port number.
 
+![ECR Cluster](https://user-images.githubusercontent.com/20161437/235326429-1fd076de-2c71-43b5-8bff-0b773e4e08ba.png)
